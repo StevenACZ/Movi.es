@@ -1,9 +1,9 @@
 # My first web page
-This is a very web page made with HTML & CSS and CSS Grid and FlexBox.
+This is a very web page made with HTML, CSS Grid & FlexBox.
 
 ## How to use it
 You can see the complete web page clicking 
-[HERE](https://stevenacz.github.io/Project-basic/)
+[HERE](https://stevenacz.github.io/Movi.es/)
 
 ## Contributing
 Just me.
